@@ -1,0 +1,7 @@
+#!/bin/bash
+
+a=hostname
+echo "Hello, my server name is $a"
+
+b=`hostname`
+echo "Hello , my server name is $b"

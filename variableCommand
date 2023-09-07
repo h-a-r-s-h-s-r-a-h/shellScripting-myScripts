@@ -1,0 +1,11 @@
+#!/bin/bash
+
+a='Jai Shree Ram'
+b='Jai Shree Krishna'
+c='Har Har Mahadev'
+d=Harsh
+
+echo "My idol is $a"
+echo "My god is $b"
+echo "My power is $c"
+echo "My name is $d"

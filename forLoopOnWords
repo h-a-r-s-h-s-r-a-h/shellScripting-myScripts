@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in Ram Krishna Mahadev
+do
+echo "Jai Shree $i"
+done
